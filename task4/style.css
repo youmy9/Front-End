@@ -1,0 +1,36 @@
+h1 {
+  background-color: hwb(335 24% 15% / 0.219);
+  text-align: center;
+  margin: 0 440px;
+  text-transform: capitalize;
+  white-space: nowrap;
+  margin-bottom: 80px;
+}
+table {
+  text-align: center;
+  margin: auto;
+  background-color: rgba(216, 112, 147, 0.3);
+  opacity: 0.3;
+}
+th {
+  color: #d83c7d;
+  font-size: 23px;
+}
+button {
+  background-color: #d83c7d59;
+  color: rgb(4, 185, 176);
+  border: 0;
+  padding: 8px;
+  margin: 80px 305px;
+  display: inline;
+}
+
+button:hover {
+  background-color: #ff006a;
+}
+
+tr:hover {
+  padding: 15px;
+  font-size: 20px;
+  margin: 20px;
+}
